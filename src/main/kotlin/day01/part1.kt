@@ -1,4 +1,4 @@
-package day1
+package day01
 
 import java.io.File
 
@@ -20,7 +20,7 @@ fun main() {
     )
     assert(countIncreases(testMeasures) == 5)
 
-    val measures = File("src/main/resources/day1/input.txt")
+    val measures = File("src/main/resources/day01/input.txt")
         .readLines()
         .map(String::toInt)
     println(countIncreases(measures))

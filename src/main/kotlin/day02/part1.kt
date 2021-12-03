@@ -1,4 +1,4 @@
-package day2
+package day02
 
 import java.io.File
 
@@ -25,7 +25,7 @@ fun main() {
     assert(testSubmarine.position() == 150)
 
     val submarine = Submarine1()
-    File("src/main/resources/day2/input.txt")
+    File("src/main/resources/day02/input.txt")
         .readLines()
         .map(::parseCommand)
         .forEach(submarine::runCommand)

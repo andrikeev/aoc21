@@ -1,4 +1,4 @@
-package day2
+package day02
 
 sealed class Command(open val value: Int) {
     data class Forward(override val value: Int) : Command(value)
