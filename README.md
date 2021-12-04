@@ -9,3 +9,5 @@ https://adventofcode.com/2021
 |  02  |   2  | [`day#02 / part#2`](/src/main/kotlin/day02/part2.kt) |
 |  03  |   1  | [`day#03 / part#1`](/src/main/kotlin/day03/part1.kt) |
 |  03  |   2  | [`day#03 / part#2`](/src/main/kotlin/day03/part2.kt) |
+|  04  |   1  | [`day#04 / part#1`](/src/main/kotlin/day04/part1.kt) |
+|  04  |   2  | [`day#04 / part#2`](/src/main/kotlin/day04/part2.kt) |
