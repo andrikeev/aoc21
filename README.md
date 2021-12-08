@@ -17,3 +17,5 @@ https://adventofcode.com/2021
 |  06  |   2  | [`day#06 / part#2`](/src/main/kotlin/day06/part2.kt) |
 |  07  |   1  | [`day#07 / part#1`](/src/main/kotlin/day07/part1.kt) |
 |  07  |   2  | [`day#07 / part#2`](/src/main/kotlin/day07/part2.kt) |
+|  08  |   1  | [`day#08 / part#1`](/src/main/kotlin/day08/part1.kt) |
+|  08  |   2  | [`day#08 / part#2`](/src/main/kotlin/day08/part2.kt) |
